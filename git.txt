@@ -1,0 +1,31 @@
+git hub 
+
+it is version control system.
+it tracks the history.maintained and sanpshot will be taken by git ,it doesnot allow others changes.
+global information tracker.
+git is not dependent on network,or central server,it works for both online and offline.
+
+
+it works as a two tier architecture and three tier
+
+
+version control  system   2 types
+
+cvcs
+dvcs
+
+
+in two tier data is stored in cenral server
+in three tier data is stored in data server,and it has a application server.
+
+git
+1)git bash is full of commands 
+2)tortise  
+
+
+git work flow
+
+step 1- you modify a file from the working directory
+you add the files to the staging area
+you perform commit operations that moves the files from the staging area
+
